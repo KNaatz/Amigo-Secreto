@@ -16,4 +16,8 @@
 <p align="center">🔘 JavaScript</p>
 
 <h3 align="center"> 💻 Executando o projeto </h3>
-<p align="center">Para executar este projeto, </p>
+<p align="center">Como funciona? Bom, basicamente, você pode adicionar uma lista de amigos e sortear um deles! A seguir, mostrarei um gif prático! </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6e4e86e-32bf-40ac-aca4-342ddd12eacc" alt="Descrição do GIF">
+</p>
+
