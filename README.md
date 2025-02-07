@@ -14,3 +14,6 @@
 <p align="center">🔘 HTML</p>
 <p align="center">🔘 CSS</p>
 <p align="center">🔘 JavaScript</p>
+
+<h3 align="center"> 💻 Executando o projeto </h3>
+<p align="center">Para executar este projeto, </p>
