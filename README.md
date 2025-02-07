@@ -21,3 +21,6 @@
   <img src="https://github.com/user-attachments/assets/b6e4e86e-32bf-40ac-aca4-342ddd12eacc" alt="Descrição do GIF">
 </p>
 
+<p align="center">Você também pode testar por sua conta seguindo este link:  
+  <a href="https://amigo-secreto-theta-lilac.vercel.app/" target="_blank">Clique aqui para acessar</a>
+</p>
